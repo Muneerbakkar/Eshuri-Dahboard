@@ -131,7 +131,7 @@ const Page = () => {
                 <li className="px-4 py-2 hover:bg-gray-300 cursor-pointer">
                   <div className="flex">
                     <Image
-                      src="/Settings-icon.svg"
+                      src="/settings-icon.svg"
                       alt="Logo"
                       width={20}
                       height={0}
