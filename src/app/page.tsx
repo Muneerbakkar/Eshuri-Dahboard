@@ -473,7 +473,7 @@ const Page = () => {
                   </div>
                   <Link
                     href="#"
-                    className="ml-auto text-blue-500 underline"
+                    className="ml-auto text-blue-500"
                     style={{ color: "#6c63ff" }}
                   >
                     See all
@@ -493,7 +493,7 @@ const Page = () => {
                   </div>
                   <Link
                     href="#"
-                    className="ml-auto text-blue-500 underline"
+                    className="ml-auto text-blue-500"
                     style={{ color: "#6c63ff" }}
                   >
                     Details
@@ -514,7 +514,7 @@ const Page = () => {
                   </div>
                   <Link
                     href="#"
-                    className="ml-auto text-blue-500 underline"
+                    className="ml-auto text-blue-500"
                     style={{ color: "#6c63ff" }}
                   >
                     Details
@@ -535,7 +535,7 @@ const Page = () => {
                   </div>
                   <Link
                     href="#"
-                    className="ml-auto text-blue-500 underline"
+                    className="ml-auto text-blue-500"
                     style={{ color: "#6c63ff" }}
                   >
                     Details
@@ -556,7 +556,7 @@ const Page = () => {
                   </div>
                   <Link
                     href="#"
-                    className="ml-auto text-blue-500 underline"
+                    className="ml-auto text-blue-500"
                     style={{ color: "#6c63ff" }}
                   >
                     Details
